@@ -1,0 +1,24 @@
+{
+  "name": "socket.io-chat",
+  "version": "1.0.0",
+  "description": "🍻 Simple server-client CLI chat using socket.io and node.js",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "keywords": [
+    "socket.io",
+    "node.js",
+    "chat"
+  ],
+  "author": "Pavel Kalugin",
+  "license": "MIT",
+  "repository": "github:AllDayAlone/socket.io-chat",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "faker": "^5.5.3",
+    "socket.io": "^4.1.2",
+    "socket.io-client": "^4.1.2"
+  }
+}
