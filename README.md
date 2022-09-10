@@ -2,6 +2,9 @@
 
 🍻 Simple server-client CLI chat using socket.io and node.js
 
+## Demo
+https://youtu.be/z7lpidnMVQU
+
 ## Installation
 ```
 npm install
